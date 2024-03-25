@@ -1,5 +1,3 @@
-# Stock_analsysis
-
 # Stock Prediction Tool
 
 This Python application uses TensorFlow and the Alpha Vantage API to predict the closing price of a given stock symbol and provide a simple buy, sell, or hold recommendation. The tool's GUI is built with Tkinter, allowing users to input a stock symbol, view its recent price data, and receive a prediction based on historical prices.
